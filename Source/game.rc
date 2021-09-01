@@ -1,0 +1,790 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 中文 (繁體，台灣) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHT)
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_TRADITIONAL
+#pragma code_page(950)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE
+BEGIN
+"resource.h\0"
+END
+
+2 TEXTINCLUDE
+BEGIN
+"#include ""afxres.h""\r\n"
+"\0"
+END
+
+3 TEXTINCLUDE
+BEGIN
+"#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+"#define _AFX_NO_OLE_RESOURCES\r\n"
+"#define _AFX_NO_TRACKER_RESOURCES\r\n"
+"#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+"\r\n"
+"#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)\r\n"
+"#ifdef _WIN32\r\n"
+"LANGUAGE 9, 1\r\n"
+"#pragma code_page(1252)\r\n"
+"#endif\r\n"
+"#include ""asset\\game""  // non-Microsoft Visual C++ edited resources\r\n"
+"#include ""afxres.rc""         // Standard components\r\n"
+"#include ""afxprint.rc""       // printing/print preview resources\r\n"
+"#endif\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_GRASS               BITMAP                  "..\\asset\\Picture\\grassV2.bmp"
+
+IDB_MCD1                BITMAP                  "..\\asset\\Picture\\MC_W_D1.bmp"
+
+IDB_MCL1                BITMAP                  "..\\asset\\Picture\\MC_W_L1.bmp"
+
+IDB_MCR1                BITMAP                  "..\\asset\\Picture\\MC_W_R1.bmp"
+
+IDB_MCU1                BITMAP                  "..\\asset\\Picture\\MC_W_U1.bmp"
+
+IDB_DRY_DIRT            BITMAP                  "..\\asset\\Picture\\DryDirt.bmp"
+
+IDB_INVENTORY           BITMAP                  "..\\asset\\Picture\\inventory.bmp"
+
+IDB_LOAD_IVT_LINE       BITMAP                  "..\\asset\\Picture\\USE_INVENTORY_LINE.bmp"
+
+IDB_MAINUSE             BITMAP                  "..\\asset\\Picture\\MainUse.bmp"
+
+IDB_MAINUSE2            BITMAP                  "..\\asset\\Picture\\NoMainUse.bmp"
+
+IDB_BS_IDEL_1           BITMAP                  "..\\asset\\Picture\\Business_Idel_1.bmp"
+
+IDB_BS_IDEL_2           BITMAP                  "..\\asset\\Picture\\Business_Idel_2.bmp"
+
+IDB_BS_IDEL_3           BITMAP                  "..\\asset\\Picture\\Business_Idel_3.bmp"
+
+IDB_BS_IDEL_4           BITMAP                  "..\\asset\\Picture\\Business_Idel_4.bmp"
+
+IDB_BS_IDEL_5           BITMAP                  "..\\asset\\Picture\\Business_Idel_5.bmp"
+
+IDB_BS_IDEL_6           BITMAP                  "..\\asset\\Picture\\Business_Idel_6.bmp"
+
+IDB_TALK_BOX            BITMAP                  "..\\asset\\Picture\\talk_box.bmp"
+
+IDB_BACKPACK            BITMAP                  "..\\asset\\Picture\\BackPack.bmp"
+
+IDB_TITLE               BITMAP                  "..\\asset\\Picture\\title.bmp"
+
+IDB_BTitle              BITMAP                  "..\\asset\\Picture\\BTitle.bmp"
+
+IDB_MENUBACKGROUND      BITMAP                  "..\\asset\\Picture\\menuBackground.bmp"
+
+IDB_B_E                 BITMAP                  "..\\asset\\Picture\\MENU\\exit\\UI_exit.bmp"
+
+IDB_B_E_C               BITMAP                  "..\\asset\\Picture\\MENU\\exit\\UI_exit_click.bmp"
+
+IDB_B_E_H               BITMAP                  "..\\asset\\Picture\\MENU\\exit\\UI_exit_hold.bmp"
+
+IDB_B_O                 BITMAP                  "..\\asset\\Picture\\MENU\\Option\\UI_Option.bmp"
+
+IDB_B_O_C               BITMAP                  "..\\asset\\Picture\\MENU\\Option\\UI_Option_click.bmp"
+
+IDB_B_O_H               BITMAP                  "..\\asset\\Picture\\MENU\\Option\\UI_Option_hold.bmp"
+
+IDB_B_S_C               BITMAP                  "..\\asset\\Picture\\MENU\\Start\\UI_Start_click.bmp"
+
+IDB_B_S_H               BITMAP                  "..\\asset\\Picture\\MENU\\Start\\UI_Start_hold.bmp"
+
+IDB_B_S                 BITMAP                  "..\\asset\\Picture\\MENU\\Start\\UI_StartGmae.bmp"
+
+IDB_CLOCKBAR            BITMAP                  "..\\asset\\Picture\\ClockBackground.bmp"
+
+IDB_LOADING             BITMAP                  "..\\asset\\Picture\\Loading\\GameLoading.bmp"
+
+IDB_BARLEY1             BITMAP                  "..\\asset\\Picture\\Crop\\Barley\\Barley_0.bmp"
+
+IDB_BARLEY2             BITMAP                  "..\\asset\\Picture\\Crop\\Barley\\Barley_1.bmp"
+
+IDB_BARLEY3             BITMAP                  "..\\asset\\Picture\\Crop\\Barley\\Barley_2.bmp"
+
+IDB_BARLEY4             BITMAP                  "..\\asset\\Picture\\Crop\\Barley\\Barley_3.bmp"
+
+IDB_BARLEY5             BITMAP                  "..\\asset\\Picture\\Crop\\Barley\\Barley_4.bmp"
+
+IDB_BARLEY_ONHAND       BITMAP                  "..\\asset\\Picture\\Crop\\Barley\\Barley_Harvest.bmp"
+
+IDB_CORN1               BITMAP                  "..\\asset\\Picture\\Crop\\Corn\\Corn_0.bmp"
+
+IDB_CORN2               BITMAP                  "..\\asset\\Picture\\Crop\\Corn\\Corn_1.bmp"
+
+IDB_CORN3               BITMAP                  "..\\asset\\Picture\\Crop\\Corn\\Corn_2.bmp"
+
+IDB_CORN4               BITMAP                  "..\\asset\\Picture\\Crop\\Corn\\Corn_3.bmp"
+
+IDB_CORN5               BITMAP                  "..\\asset\\Picture\\Crop\\Corn\\Corn_4.bmp"
+
+IDB_CORN_ONHAND         BITMAP                  "..\\asset\\Picture\\Crop\\Corn\\Corn_Harvest.bmp"
+
+IDB_INVENTORY_SELECT    BITMAP                  "..\\asset\\Picture\\inventory_select.bmp"
+
+IDB_PAUSE               BITMAP                  "..\\asset\\Picture\\MENU\\PAUSE.bmp"
+
+IDR_MAINFRAME           BITMAP                  "..\\asset\\Toolbar.bmp"
+
+IDB_MONEYBAR            BITMAP                  "..\\asset\\Picture\\moneyBar.bmp"
+
+IDB_MONEYICON           BITMAP                  "..\\asset\\Picture\\money.bmp"
+
+IDB_STORE               BITMAP                  "..\\asset\\Picture\\store\\Store.bmp"
+
+IDB_ChGnd               BITMAP                  "..\\asset\\Picture\\chicken house\\chiGround.bmp"
+
+IDB_ChWell              BITMAP                  "..\\asset\\Picture\\chicken house\\chiWell.bmp"
+
+IDB_ChHouse             BITMAP                  "..\\asset\\Picture\\chicken house\\Chicken_House.bmp"
+
+IDB_ChFeedbox1          BITMAP                  "..\\asset\\Picture\\chicken house\\feedBox1.bmp"
+
+IDB_ChFeedbox2          BITMAP                  "..\\asset\\Picture\\chicken house\\feedBox2.bmp"
+
+IDB_ChFeedbox3          BITMAP                  "..\\asset\\Picture\\chicken house\\feedBox3.bmp"
+
+IDB_HmFood              BITMAP                  "..\\asset\\Picture\\home\\home_food.bmp"
+
+IDB_HmGnd               BITMAP                  "..\\asset\\Picture\\home\\home_ground.bmp"
+
+IDB_HmWall              BITMAP                  "..\\asset\\Picture\\home\\home_wall.bmp"
+
+IDB_HmWallBtm           BITMAP                  "..\\asset\\Picture\\home\\home_wallBottom.bmp"
+
+IDB_HmTV                BITMAP                  "..\\asset\\Picture\\home\\TV.bmp"
+
+IDB_HmKettle            BITMAP                  "..\\asset\\Picture\\home\\水壺-kettle.bmp"
+
+IDB_HmNst               BITMAP                  "..\\asset\\Picture\\home\\兔子窩-Rabbit_nest.bmp"
+
+IDB_CHIC_IDEL_D         BITMAP                  "..\\asset\\Picture\\Animals\\Chicken\\Chicken_W_D1.bmp"
+
+IDB_CHIC_IDEL_L         BITMAP                  "..\\asset\\Picture\\Animals\\Chicken\\Chicken_W_L1.bmp"
+
+IDB_CHIC_IDEL_R         BITMAP                  "..\\asset\\Picture\\Animals\\Chicken\\Chicken_W_R1.bmp"
+
+IDB_CHIC_IDEL_U         BITMAP                  "..\\asset\\Picture\\Animals\\Chicken\\Chicken_W_U1.bmp"
+
+IDB_EGG                 BITMAP                  "..\\asset\\Picture\\Item\\animal_produce\\eggV2.bmp"
+
+IDB_BACKUI              BITMAP                  "..\\asset\\Picture\\UI\\UIBackGround.bmp"
+
+IDB_AXE                 BITMAP                  "..\\asset\\Picture\\tool\\axe.bmp"
+
+IDB_BELL                BITMAP                  "..\\asset\\Picture\\tool\\bell.bmp"
+
+IDB_BOX                 BITMAP                  "..\\asset\\Picture\\tool\\box.bmp"
+
+IDB_HAMMER              BITMAP                  "..\\asset\\Picture\\tool\\hammer.bmp"
+
+IDB_HOE                 BITMAP                  "..\\asset\\Picture\\tool\\hoe.bmp"
+
+IDB_MILEMACHINE         BITMAP                  "..\\asset\\Picture\\tool\\milkMachine.bmp"
+
+IDB_ROD                 BITMAP                  "..\\asset\\Picture\\tool\\rod.bmp"
+
+IDB_SCISSOR             BITMAP                  "..\\asset\\Picture\\tool\\scissor.bmp"
+
+IDB_SICKLE              BITMAP                  "..\\asset\\Picture\\tool\\sickle.bmp"
+
+IDB_WATERCAN            BITMAP                  "..\\asset\\Picture\\tool\\WaterCan.bmp"
+
+IDB_MAIN_POINT          BITMAP                  "..\\asset\\Picture\\store\\mainPoint.bmp"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Cursor
+//
+
+IDC_GAMECURSOR          CURSOR                  "..\\asset\\Curs\\os.cur"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// PNG
+//
+
+IDB_PNG1                PNG                     "..\\asset\\Picture\\Crop_Spritesheet_Page_Item.png"
+
+#endif    // 中文 (繁體，台灣) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// 英文 (美國) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_FENCE_LUNDER        BITMAP                  "..\\asset\\Picture\\Item\\Item_Fence_LeftUnder_Corner.bmp"
+
+IDB_FENCE_LUP           BITMAP                  "..\\asset\\Picture\\Item\\Item_Fence_LeftUp_Corner.bmp"
+
+IDB_FENCE_RUNDER        BITMAP                  "..\\asset\\Picture\\Item\\Item_Fence_RightUnder_Corner.bmp"
+
+IDB_FENCE_RUP           BITMAP                  "..\\asset\\Picture\\Item\\Item_Fence_RightUp_Corner.bmp"
+
+IDB_FENCE_BACK          BITMAP                  "..\\asset\\Picture\\Item\\Item_Fence_UpBack.bmp"
+
+IDB_FENCE               BITMAP                  "..\\asset\\Picture\\Item\\Item_Fence.bmp"
+
+IDB_FENCE_STR           BITMAP                  "..\\asset\\Picture\\Item\\Item_Fence_Straight.bmp"
+
+IDB_LOADBACK            BITMAP                  "..\\asset\\Picture\\LoadingBackground.bmp"
+
+IDB_BUSH1               BITMAP                  "..\\asset\\Picture\\bush.bmp"
+
+IDB_BUSH2               BITMAP                  "..\\asset\\Picture\\bush2.bmp"
+
+IDB_Cow_EAT_1           BITMAP                  "..\\asset\\Picture\\Animals\\Cow\\Cow_EAT_1.bmp"
+
+IDB_Cow_EAT_2           BITMAP                  "..\\asset\\Picture\\Animals\\Cow\\Cow_EAT_2.bmp"
+
+IDB_Cow_EAT_3           BITMAP                  "..\\asset\\Picture\\Animals\\Cow\\Cow_EAT_3.bmp"
+
+IDB_Cow_EAT_4           BITMAP                  "..\\asset\\Picture\\Animals\\Cow\\Cow_EAT_4.bmp"
+
+IDB_Cow_IDEL_D          BITMAP                  "..\\asset\\Picture\\Animals\\Cow\\Cow_IDEL_D.bmp"
+
+IDB_Cow_IDEL_L          BITMAP                  "..\\asset\\Picture\\Animals\\Cow\\Cow_IDEL_L.bmp"
+
+IDB_Cow_IDEL_R          BITMAP                  "..\\asset\\Picture\\Animals\\Cow\\Cow_IDEL_R.bmp"
+
+IDB_Cow_IDEL_U          BITMAP                  "..\\asset\\Picture\\Animals\\Cow\\Cow_IDEL_U.bmp"
+
+IDB_Cow_Sleep_1         BITMAP                  "..\\asset\\Picture\\Animals\\Cow\\Cow_Sleep_1.bmp"
+
+IDB_Cow_Sleep_2         BITMAP                  "..\\asset\\Picture\\Animals\\Cow\\Cow_Sleep_2.bmp"
+
+IDB_Cow_WalkD_1         BITMAP                  "..\\asset\\Picture\\Animals\\Cow\\Cow_W_D1.bmp"
+
+IDB_Cow_WalkD_2         BITMAP                  "..\\asset\\Picture\\Animals\\Cow\\Cow_W_D2.bmp"
+
+IDB_Cow_WalkD_3         BITMAP                  "..\\asset\\Picture\\Animals\\Cow\\Cow_W_D3.bmp"
+
+IDB_Cow_WalkD_4         BITMAP                  "..\\asset\\Picture\\Animals\\Cow\\Cow_W_D4.bmp"
+
+IDB_Cow_WalkL_1         BITMAP                  "..\\asset\\Picture\\Animals\\Cow\\Cow_W_L1.bmp"
+
+IDB_Cow_WalkL_2         BITMAP                  "..\\asset\\Picture\\Animals\\Cow\\Cow_W_L2.bmp"
+
+IDB_Cow_WalkL_3         BITMAP                  "..\\asset\\Picture\\Animals\\Cow\\Cow_W_L3.bmp"
+
+IDB_Cow_WalkL_4         BITMAP                  "..\\asset\\Picture\\Animals\\Cow\\Cow_W_L4.bmp"
+
+IDB_Cow_WalkR_1         BITMAP                  "..\\asset\\Picture\\Animals\\Cow\\Cow_W_R1.bmp"
+
+IDB_Cow_WalkR_2         BITMAP                  "..\\asset\\Picture\\Animals\\Cow\\Cow_W_R2.bmp"
+
+IDB_Cow_WalkR_3         BITMAP                  "..\\asset\\Picture\\Animals\\Cow\\Cow_W_R3.bmp"
+
+IDB_Cow_WalkR_4         BITMAP                  "..\\asset\\Picture\\Animals\\Cow\\Cow_W_R4.bmp"
+
+IDB_Cow_WalkU_1         BITMAP                  "..\\asset\\Picture\\Animals\\Cow\\Cow_W_U1.bmp"
+
+IDB_Cow_WalkU_2         BITMAP                  "..\\asset\\Picture\\Animals\\Cow\\Cow_W_U2.bmp"
+
+IDB_Cow_WalkU_3         BITMAP                  "..\\asset\\Picture\\Animals\\Cow\\Cow_W_U3.bmp"
+
+IDB_Cow_WalkU_4         BITMAP                  "..\\asset\\Picture\\Animals\\Cow\\Cow_W_U4.bmp"
+
+IDB_Sheep_EAT_1         BITMAP                  "..\\asset\\Picture\\Animals\\Sheep\\Sheep_EAT_1.bmp"
+
+IDB_Sheep_EAT_2         BITMAP                  "..\\asset\\Picture\\Animals\\Sheep\\Sheep_EAT_2.bmp"
+
+IDB_Sheep_EAT_3         BITMAP                  "..\\asset\\Picture\\Animals\\Sheep\\Sheep_EAT_3.bmp"
+
+IDB_Sheep_EAT_4         BITMAP                  "..\\asset\\Picture\\Animals\\Sheep\\Sheep_EAT_4.bmp"
+
+IDB_Sheep_IDEL_D        BITMAP                  "..\\asset\\Picture\\Animals\\Sheep\\Sheep_IDEL_D.bmp"
+
+IDB_Sheep_IDEL_L        BITMAP                  "..\\asset\\Picture\\Animals\\Sheep\\Sheep_IDEL_L.bmp"
+
+IDB_Sheep_IDEL_R        BITMAP                  "..\\asset\\Picture\\Animals\\Sheep\\Sheep_IDEL_R.bmp"
+
+IDB_Sheep_IDEL_U        BITMAP                  "..\\asset\\Picture\\Animals\\Sheep\\Sheep_IDEL_U.bmp"
+
+IDB_Sheep_Sleep_1       BITMAP                  "..\\asset\\Picture\\Animals\\Sheep\\Sheep_Sleep_1.bmp"
+
+IDB_Sheep_Sleep_2       BITMAP                  "..\\asset\\Picture\\Animals\\Sheep\\Sheep_Sleep_2.bmp"
+
+IDB_Sheep_W_D1          BITMAP                  "..\\asset\\Picture\\Animals\\Sheep\\Sheep_WalkD_1.bmp"
+
+IDB_Sheep_W_D2          BITMAP                  "..\\asset\\Picture\\Animals\\Sheep\\Sheep_WalkD_2.bmp"
+
+IDB_Sheep_W_D3          BITMAP                  "..\\asset\\Picture\\Animals\\Sheep\\Sheep_WalkD_3.bmp"
+
+IDB_Sheep_W_D4          BITMAP                  "..\\asset\\Picture\\Animals\\Sheep\\Sheep_WalkD_4.bmp"
+
+IDB_Sheep_W_L1          BITMAP                  "..\\asset\\Picture\\Animals\\Sheep\\Sheep_WalkL_1.bmp"
+
+IDB_Sheep_W_L2          BITMAP                  "..\\asset\\Picture\\Animals\\Sheep\\Sheep_WalkL_2.bmp"
+
+IDB_Sheep_W_L3          BITMAP                  "..\\asset\\Picture\\Animals\\Sheep\\Sheep_WalkL_3.bmp"
+
+IDB_Sheep_W_L4          BITMAP                  "..\\asset\\Picture\\Animals\\Sheep\\Sheep_WalkL_4.bmp"
+
+IDB_Sheep_W_R1          BITMAP                  "..\\asset\\Picture\\Animals\\Sheep\\Sheep_WalkR_1.bmp"
+
+IDB_Sheep_W_R2          BITMAP                  "..\\asset\\Picture\\Animals\\Sheep\\Sheep_WalkR_2.bmp"
+
+IDB_Sheep_W_R3          BITMAP                  "..\\asset\\Picture\\Animals\\Sheep\\Sheep_WalkR_3.bmp"
+
+IDB_Sheep_W_R4          BITMAP                  "..\\asset\\Picture\\Animals\\Sheep\\Sheep_WalkR_4.bmp"
+
+IDB_Sheep_W_U1          BITMAP                  "..\\asset\\Picture\\Animals\\Sheep\\Sheep_WalkU_1.bmp"
+
+IDB_Sheep_W_U2          BITMAP                  "..\\asset\\Picture\\Animals\\Sheep\\Sheep_WalkU_2.bmp"
+
+IDB_Sheep_W_U3          BITMAP                  "..\\asset\\Picture\\Animals\\Sheep\\Sheep_WalkU_3.bmp"
+
+IDB_Sheep_W_U4          BITMAP                  "..\\asset\\Picture\\Animals\\Sheep\\Sheep_WalkU_4.bmp"
+
+IDB_Product_Milk        BITMAP                  "..\\asset\\Picture\\Animal Product\\Milk.bmp"
+
+IDB_Product_Fleece      BITMAP                  "..\\asset\\Picture\\Animal Product\\Fleece.bmp"
+
+IDB_Road_CDown          BITMAP                  "..\\asset\\Picture\\Road_CDown.bmp"
+
+IDB_Road_Center         BITMAP                  "..\\asset\\Picture\\Road_Center.bmp"
+
+IDB_Road_CUp            BITMAP                  "..\\asset\\Picture\\Road_CUp.bmp"
+
+IDB_Road_LDownCorner    BITMAP                  "..\\asset\\Picture\\Road_LDownCorner.bmp"
+
+IDB_Road_LUpCorner      BITMAP                  "..\\asset\\Picture\\Road_LUpCorner.bmp"
+
+IDB_Road_RDownCorner    BITMAP                  "..\\asset\\Picture\\Road_RDownCorner.bmp"
+
+IDB_Road_RUpCorner      BITMAP                  "..\\asset\\Picture\\Road_RUpCorner.bmp"
+
+IDB_Road_CLeft          BITMAP                  "..\\asset\\Picture\\Road_Left.bmp"
+
+IDB_Road_CRight         BITMAP                  "..\\asset\\Picture\\Road_Right.bmp"
+
+IDB_Tool_axe            BITMAP                  "..\\asset\\Picture\\tool\\axe.bmp"
+
+IDB_Tool_bell           BITMAP                  "..\\asset\\Picture\\tool\\bell.bmp"
+
+IDB_Tool_hammer         BITMAP                  "..\\asset\\Picture\\tool\\hammer.bmp"
+
+IDB_Tool_hoe            BITMAP                  "..\\asset\\Picture\\tool\\hoe.bmp"
+
+IDB_Tool_milkMachine    BITMAP                  "..\\asset\\Picture\\tool\\milkMachine.bmp"
+
+IDB_Tool_rod            BITMAP                  "..\\asset\\Picture\\tool\\rod.bmp"
+
+IDB_Tool_scissor        BITMAP                  "..\\asset\\Picture\\tool\\scissor.bmp"
+
+IDB_Tool_sickle         BITMAP                  "..\\asset\\Picture\\tool\\sickle.bmp"
+
+IDB_Tool_WtrCan         BITMAP                  "..\\asset\\Picture\\tool\\WaterCan.bmp"
+
+IDB_Tool_box            BITMAP                  "..\\asset\\Picture\\tool\\box.bmp"
+
+IDB_STOREHouse          BITMAP                  "..\\asset\\Picture\\store\\StrHouse.bmp"
+
+IDB_HmHouse             BITMAP                  "..\\asset\\Picture\\home\\Home.bmp"
+
+IDB_B_About             BITMAP                  "..\\asset\\Picture\\MENU\\UI_about.bmp"
+
+IDB_B_Des_P1            BITMAP                  "..\\asset\\Picture\\MENU\\UI_Description_p1.bmp"
+
+IDB_B_Des_P2            BITMAP                  "..\\asset\\Picture\\MENU\\UI_Description_p2.bmp"
+
+IDB_B_Des_P3            BITMAP                  "..\\asset\\Picture\\MENU\\UI_Description_p3.bmp"
+
+IDB_B_Des_P4            BITMAP                  "..\\asset\\Picture\\MENU\\UI_Description_p4.bmp"
+
+IDB_Ach_Chicken         BITMAP                  "..\\asset\\Picture\\Achievement\\IU_Achievement_Chicken.bmp"
+
+IDB_Ach_Cow             BITMAP                  "..\\asset\\Picture\\Achievement\\IU_Achievement_Cow.bmp"
+
+IDB_Ach_Crop            BITMAP                  "..\\asset\\Picture\\Achievement\\IU_Achievement_Crop.bmp"
+
+IDB_Ach_Money           BITMAP                  "..\\asset\\Picture\\Achievement\\IU_Achievement_Money.bmp"
+
+IDB_Ach_Sheep           BITMAP                  "..\\asset\\Picture\\Achievement\\IU_Achievement_Sheep.bmp"
+
+IDB_Ach_Win_1           BITMAP                  "..\\asset\\Picture\\Achievement\\UI_Ach_Win_1.bmp"
+
+IDB_Ach_Win_2           BITMAP                  "..\\asset\\Picture\\Achievement\\UI_Ach_Win_2.bmp"
+
+IDB_Ach_Win_3           BITMAP                  "..\\asset\\Picture\\Achievement\\UI_Ach_Win_3.bmp"
+
+IDB_Ach_Win_4           BITMAP                  "..\\asset\\Picture\\Achievement\\UI_Ach_Win_4.bmp"
+
+IDB_Ach_Win_5           BITMAP                  "..\\asset\\Picture\\Achievement\\UI_Ach_Win_5.bmp"
+
+IDB_Ach_Win_0           BITMAP                  "..\\asset\\Picture\\Achievement\\UI_Ach_Win_0.bmp"
+
+IDB_Ach_Des_Chicken     BITMAP                  "..\\asset\\Picture\\Achievement\\Ach_Des_Chicken.bmp"
+
+IDB_Ach_Des_Cow         BITMAP                  "..\\asset\\Picture\\Achievement\\Ach_Des_Cow.bmp"
+
+IDB_Ach_Des_Crop        BITMAP                  "..\\asset\\Picture\\Achievement\\Ach_Des_Crop.bmp"
+
+IDB_Ach_Des_Money       BITMAP                  "..\\asset\\Picture\\Achievement\\Ach_Des_Money.bmp"
+
+IDB_Ach_Des_Sheep       BITMAP                  "..\\asset\\Picture\\Achievement\\Ach_Des_Sheep.bmp"
+
+IDB_Over_Win_YorN       BITMAP                  "..\\asset\\Picture\\Game Over\\UI_Over_Win_YorN.bmp"
+
+IDB_Over_Win_YorN_NClick BITMAP                  "..\\asset\\Picture\\Game Over\\UI_Over_Win_YorN_NClick.bmp"
+
+IDB_Over_Win_YorN_YClick BITMAP                  "..\\asset\\Picture\\Game Over\\UI_Over_Win_YorN_YClick.bmp"
+
+IDB_Over_Win_Cul        BITMAP                  "..\\asset\\Picture\\Game Over\\UI_Over_Win_Cul.bmp"
+
+IDB_B_Des_P5            BITMAP                  "..\\asset\\Picture\\MENU\\UI_Description_p5.bmp"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON                    "..\\asset\\Picture\\Icon_Big.ico"
+
+IDR_GAMETYPE            ICON                    "..\\asset\\Picture\\Icon_small.ico"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Toolbar
+//
+
+IDR_MAINFRAME TOOLBAR 16, 15
+BEGIN
+BUTTON      ID_BUTTON_FULLSCREEN
+BUTTON      ID_BUTTON_PAUSE
+SEPARATOR
+BUTTON      ID_FILE_OPEN
+BUTTON      ID_FILE_SAVE
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MAINFRAME MENU
+BEGIN
+POPUP "&File"
+BEGIN
+MENUITEM "&New",                        ID_FILE_NEW
+MENUITEM "Pause\tCtrl+Q",               ID_FILE_PAUSE
+MENUITEM "&Open...",                    ID_FILE_OPEN
+MENUITEM "&Save",                       ID_FILE_SAVE
+MENUITEM SEPARATOR
+MENUITEM "Save &As...",                 ID_FILE_SAVE_AS
+MENUITEM "&Print...",                   ID_FILE_PRINT
+MENUITEM "Print Pre&view",              ID_FILE_PRINT_PREVIEW
+MENUITEM "P&rint Setup...",             ID_FILE_PRINT_SETUP
+MENUITEM SEPARATOR
+MENUITEM "Recent File",                 ID_FILE_MRU_FILE1
+MENUITEM SEPARATOR
+MENUITEM "E&xit",                       ID_APP_EXIT
+END
+POPUP "&View"
+BEGIN
+MENUITEM "&Fullscreen\tCtrl+F",         ID_TOGGLE_FULLSCREEN
+MENUITEM "&Toolbar",                    ID_VIEW_TOOLBAR
+MENUITEM "&Status Bar",                 ID_VIEW_STATUS_BAR
+END
+POPUP "&Help"
+BEGIN
+MENUITEM "&About game...",              ID_APP_ABOUT
+END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDR_MAINFRAME ACCELERATORS
+BEGIN
+"F",            ID_TOGGLE_FULLSCREEN,   VIRTKEY, CONTROL, NOINVERT
+"Q",            ID_FILE_PAUSE,          VIRTKEY, CONTROL, NOINVERT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOGEX 0, 0, 218, 79
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "About game"
+FONT 8, "MS Sans Serif", 0, 0, 0x0
+BEGIN
+ICON            IDR_MAINFRAME, IDC_STATIC, 11, 17, 20, 20
+LTEXT           "Game Framework Version 4.8", IDC_STATIC, 39, 10, 119, 8, SS_NOPREFIX
+LTEXT           "Copyright (C) 2002-2012", IDC_STATIC, 39, 23, 119, 8
+DEFPUSHBUTTON   "OK", IDOK, 172, 7, 39, 14, WS_GROUP
+LTEXT           "Liense: GPL", IDC_STATIC, 39, 35, 119, 8
+PUSHBUTTON      "ReadMe", IDC_README, 172, 24, 39, 13, WS_GROUP
+LTEXT           "Author: Woei-Kae Chen, CSIE Department, NTUT", IDC_STATIC, 39, 47, 159, 8
+LTEXT           "http://www.ntut.edu.tw/~wkchen/game", IDC_STATIC, 39, 60, 159, 8
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+FILEVERSION 1, 0, 0, 1
+PRODUCTVERSION 1, 0, 0, 1
+FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+FILEFLAGS 0x1L
+#else
+FILEFLAGS 0x0L
+#endif
+FILEOS 0x4L
+FILETYPE 0x1L
+FILESUBTYPE 0x0L
+BEGIN
+BLOCK "StringFileInfo"
+BEGIN
+BLOCK "040904b0"
+BEGIN
+VALUE "FileDescription", "game MFC Application"
+VALUE "FileVersion", "1, 0, 0, 1"
+VALUE "InternalName", "game"
+VALUE "LegalCopyright", "Copyright (C) 1999"
+VALUE "OriginalFilename", "game.EXE"
+VALUE "ProductName", "game Application"
+VALUE "ProductVersion", "1, 0, 0, 1"
+END
+END
+BLOCK "VarFileInfo"
+BEGIN
+VALUE "Translation", 0x409, 1200
+END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+IDD_ABOUTBOX, DIALOG
+BEGIN
+LEFTMARGIN, 7
+RIGHTMARGIN, 211
+TOPMARGIN, 7
+BOTTOMMARGIN, 68
+END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE
+BEGIN
+IDP_SOCKETS_INIT_FAILED "Windows sockets initialization failed."
+END
+
+STRINGTABLE
+BEGIN
+IDR_MAINFRAME           "game\n\nGame\n\n\nGame.Document\nGame Document"
+END
+
+STRINGTABLE
+BEGIN
+AFX_IDS_APP_TITLE       "game"
+AFX_IDS_IDLEMESSAGE     "Ready"
+END
+
+STRINGTABLE
+BEGIN
+ID_INDICATOR_EXT        "EXT"
+ID_INDICATOR_CAPS       "CAP"
+ID_INDICATOR_NUM        "NUM"
+ID_INDICATOR_SCRL       "SCRL"
+ID_INDICATOR_OVR        "OVR"
+ID_INDICATOR_REC        "REC"
+END
+
+STRINGTABLE
+BEGIN
+ID_FILE_NEW             "Create a new document\nNew"
+ID_FILE_OPEN            "Open an existing document\nOpen"
+ID_FILE_CLOSE           "Close the active document\nClose"
+ID_FILE_SAVE            "Save the active document\nSave"
+ID_FILE_SAVE_AS         "Save the active document with a new name\nSave As"
+ID_FILE_PAGE_SETUP      "Change the printing options\nPage Setup"
+ID_FILE_PRINT_SETUP     "Change the printer and printing options\nPrint Setup"
+ID_FILE_PRINT           "Print the active document\nPrint"
+ID_FILE_PRINT_PREVIEW   "Display full pages\nPrint Preview"
+END
+
+STRINGTABLE
+BEGIN
+ID_APP_ABOUT            "Display program information, version number and copyright\nAbout"
+ID_APP_EXIT             "Quit the application; prompts to save documents\nExit"
+END
+
+STRINGTABLE
+BEGIN
+ID_FILE_MRU_FILE1       "Open this document"
+ID_FILE_MRU_FILE2       "Open this document"
+ID_FILE_MRU_FILE3       "Open this document"
+ID_FILE_MRU_FILE4       "Open this document"
+ID_FILE_MRU_FILE5       "Open this document"
+ID_FILE_MRU_FILE6       "Open this document"
+ID_FILE_MRU_FILE7       "Open this document"
+ID_FILE_MRU_FILE8       "Open this document"
+ID_FILE_MRU_FILE9       "Open this document"
+ID_FILE_MRU_FILE10      "Open this document"
+ID_FILE_MRU_FILE11      "Open this document"
+ID_FILE_MRU_FILE12      "Open this document"
+ID_FILE_MRU_FILE13      "Open this document"
+ID_FILE_MRU_FILE14      "Open this document"
+ID_FILE_MRU_FILE15      "Open this document"
+ID_FILE_MRU_FILE16      "Open this document"
+END
+
+STRINGTABLE
+BEGIN
+ID_NEXT_PANE            "Switch to the next window pane\nNext Pane"
+ID_PREV_PANE            "Switch back to the previous window pane\nPrevious Pane"
+END
+
+STRINGTABLE
+BEGIN
+ID_WINDOW_SPLIT         "Split the active window into panes\nSplit"
+END
+
+STRINGTABLE
+BEGIN
+ID_EDIT_CLEAR           "Erase the selection\nErase"
+ID_EDIT_CLEAR_ALL       "Erase everything\nErase All"
+ID_EDIT_COPY            "Copy the selection and put it on the Clipboard\nCopy"
+ID_EDIT_CUT             "Cut the selection and put it on the Clipboard\nCut"
+ID_EDIT_FIND            "Find the specified text\nFind"
+ID_EDIT_PASTE           "Insert Clipboard contents\nPaste"
+ID_EDIT_REPEAT          "Repeat the last action\nRepeat"
+ID_EDIT_REPLACE         "Replace specific text with different text\nReplace"
+ID_EDIT_SELECT_ALL      "Select the entire document\nSelect All"
+ID_EDIT_UNDO            "Undo the last action\nUndo"
+ID_EDIT_REDO            "Redo the previously undone action\nRedo"
+END
+
+STRINGTABLE
+BEGIN
+ID_VIEW_TOOLBAR         "Show or hide the toolbar\nToggle ToolBar"
+ID_VIEW_STATUS_BAR      "Show or hide the status bar\nToggle StatusBar"
+END
+
+STRINGTABLE
+BEGIN
+AFX_IDS_SCSIZE          "Change the window size"
+AFX_IDS_SCMOVE          "Change the window position"
+AFX_IDS_SCMINIMIZE      "Reduce the window to an icon"
+AFX_IDS_SCMAXIMIZE      "Enlarge the window to full size"
+AFX_IDS_SCNEXTWINDOW    "Switch to the next document window"
+AFX_IDS_SCPREVWINDOW    "Switch to the previous document window"
+AFX_IDS_SCCLOSE         "Close the active window and prompts to save the documents"
+END
+
+STRINGTABLE
+BEGIN
+AFX_IDS_SCRESTORE       "Restore the window to normal size"
+AFX_IDS_SCTASKLIST      "Activate Task List"
+END
+
+STRINGTABLE
+BEGIN
+AFX_IDS_PREVIEW_CLOSE   "Close print preview mode\nCancel Preview"
+END
+
+STRINGTABLE
+BEGIN
+ID_BUTTON_FULLSCREEN    "Full Screen\nFull Screen"
+ID_BUTTON_PAUSE         "Pause Game\nPause Game"
+ID_BUTTON_UNITTEST      "Perform Unit Test"
+END
+
+#endif    // 英文 (美國) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE 9, 1
+#pragma code_page(1252)
+#endif
+#include "asset\game.rc2"  // non-Microsoft Visual C++ edited resources
+#include "afxres.rc"         // Standard components
+#include "afxprint.rc"       // printing/print preview resources
+#endif
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

@@ -1,0 +1,1019 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{1a913106-0be0-4476-b0ce-2aa855072614}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;cnt;rtf;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="MFC">
+      <UniqueIdentifier>{da904ee8-7f59-4a6c-b3ff-b91b6fb6d0ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameLibrary">
+      <UniqueIdentifier>{df7aa532-3fdf-46a0-b3fc-8f5922e8d9e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MyGame">
+      <UniqueIdentifier>{0c798913-b7d2-4e26-8241-0f83266cd626}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Res\ball.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp0.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp1.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp10.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp2.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp3.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp4.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp5.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp6.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp7.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp8.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp9.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\center.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\continue.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Res\corner.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\eraser1.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\eraser2.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\eraser3.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\game.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\game.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\gamecurs.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\gameDoc.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\help.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\loading.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\ntutcsie.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Toolbar.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="asset\Curs\os.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\audio.cpp">
+      <Filter>GameLibrary</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\game.cpp">
+      <Filter>MFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\gameDoc.cpp">
+      <Filter>MFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\gamelib.cpp">
+      <Filter>GameLibrary</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\gameView.cpp">
+      <Filter>MFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\MainFrm.cpp">
+      <Filter>MFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\StdAfx.cpp">
+      <Filter>MFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\mygame.cpp">
+      <Filter>MyGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Map.cpp">
+      <Filter>MyGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character.cpp">
+      <Filter>MyGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Businessman.cpp">
+      <Filter>MyGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Crop.cpp">
+      <Filter>MyGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Item.cpp">
+      <Filter>MyGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\menu.cpp">
+      <Filter>MyGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\UI.cpp">
+      <Filter>MyGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Chicken.cpp">
+      <Filter>MyGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Animals.cpp">
+      <Filter>MyGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Cow.cpp">
+      <Filter>MyGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Sheep.cpp">
+      <Filter>MyGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Challenge.cpp">
+      <Filter>MyGame</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\audio.h">
+      <Filter>GameLibrary</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\game.h">
+      <Filter>MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\gameDoc.h">
+      <Filter>MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\gamelib.h">
+      <Filter>GameLibrary</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\gameView.h">
+      <Filter>MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\MainFrm.h">
+      <Filter>MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Resource.h">
+      <Filter>MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\StdAfx.h">
+      <Filter>MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\mygame.h">
+      <Filter>MyGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Map.h">
+      <Filter>MyGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character.h">
+      <Filter>MyGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Businessman.h">
+      <Filter>MyGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Crop.h">
+      <Filter>MyGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Item.h">
+      <Filter>MyGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Menu.h">
+      <Filter>MyGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\UI.h">
+      <Filter>MyGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Chicken.h">
+      <Filter>MyGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Animals.h">
+      <Filter>MyGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Cow.h">
+      <Filter>MyGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Sheep.h">
+      <Filter>MyGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Challenge.h">
+      <Filter>MyGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Source\game.rc">
+      <Filter>MFC</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\bitmap3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\grassV2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\MC_W_D1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\MC_W_L1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\MC_W_R1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\MC_W_U1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Chicken\Chicken_W_D1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\DryDirt.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\inventory.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\USE_INVENTORY_LINE.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\MainUse.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\NoMainUse.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Business_Idel_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Business_Idel_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Business_Idel_3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Business_Idel_4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Business_Idel_5.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Business_Idel_6.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\talk_box.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\BackPack.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\title.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\BTitle.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\menuBackground.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\MENU\exit\UI_exit.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\MENU\exit\UI_exit_click.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\MENU\exit\UI_exit_hold.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\MENU\Option\UI_Option.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\MENU\Option\UI_Option_click.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\MENU\Option\UI_Option_hold.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\MENU\Start\UI_Start_click.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\MENU\Start\UI_Start_hold.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\MENU\Start\UI_StartGmae.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\ClockBackground.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Loading\GameLoading.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Crop\Barley\Barley_0.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Crop\Barley\Barley_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Crop\Barley\Barley_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Crop\Barley\Barley_3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Crop\Barley\Barley_4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Crop\Barley\Barley_Harvest.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Crop\Corn\Corn_0.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Crop\Corn\Corn_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Crop\Corn\Corn_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Crop\Corn\Corn_3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Crop\Corn\Corn_4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Crop\Corn\Corn_Harvest.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\inventory_select.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\MENU\PAUSE.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Toolbar.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\WaterCan.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\moneyBar.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\money.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\store\Store.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Crop_Spritesheet_Page_Item.png" />
+    <Image Include="asset\Picture\Item\Item_Fence_LeftUnder_Corner.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Item\Item_Fence_LeftUp_Corner.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Item\Item_Fence_RightUnder_Corner.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Item\Item_Fence_RightUp_Corner.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Item\Item_Fence_UpBack.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Item\Item_Fence.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Item\Item_Fence_Straight.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\LoadingBackground.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\bush.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\bush2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Icon_Big.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Icon_small.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Chicken\Chicken_W_L1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\picture\bitmap29.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Chicken\Chicken_W_R1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Chicken\Chicken_W_U1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Item\animal_produce\egg.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\UI\UIBackGround.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\chicken house\chiGround.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\chicken house\chiWell.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\chicken house\Chicken_House.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\chicken house\feedBox1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\chicken house\feedBox2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\chicken house\feedBox3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\home\home_food.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\home\home_ground.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\home\home_wall.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\home\home_wallBottom.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\home\TV.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\home\水壺-kettle.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\home\兔子窩-Rabbit_nest.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\tool\box.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Item\animal_produce\eggV2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\牛\Cow_IDEL_D.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_IDEL_D.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_IDEL_R.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\牛\Cow_EAT_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\牛\Cow_EAT_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\牛\Cow_EAT_3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\牛\Cow_EAT_4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\牛\Cow_IDEL_L.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\牛\Cow_IDEL_R.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\牛\Cow_IDEL_U.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\牛\Cow_Sleep_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\牛\Cow_Sleep_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\牛\Cow_WalkD_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\牛\Cow_WalkD_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\牛\Cow_WalkD_3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\牛\Cow_WalkD_4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\牛\Cow_WalkL_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\牛\Cow_WalkL_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\牛\Cow_WalkL_3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\牛\Cow_WalkL_4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\牛\Cow_WalkR_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\牛\Cow_WalkR_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\牛\Cow_WalkR_3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\牛\Cow_WalkR_4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\牛\Cow_WalkU_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\牛\Cow_WalkU_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\牛\Cow_WalkU_3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\牛\Cow_WalkU_4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_EAT_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_EAT_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_EAT_3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_EAT_4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_IDEL_L.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_IDEL_U.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_Sleep_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_Sleep_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_WalkD_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_WalkD_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_WalkD_3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_WalkD_4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_WalkL_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_WalkL_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_WalkL_3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_WalkL_4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_WalkR_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_WalkR_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_WalkR_3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_WalkR_4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_WalkU_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_WalkU_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_WalkU_3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_WalkU_4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\羊\Sheep_EAT_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\羊\Sheep_EAT_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\羊\Sheep_EAT_3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\羊\Sheep_EAT_4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\羊\Sheep_IDEL_D.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\羊\Sheep_IDEL_L.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\羊\Sheep_IDEL_R.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\羊\Sheep_IDEL_U.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\羊\Sheep_Sleep_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\羊\Sheep_Sleep_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\羊\Sheep_WalkD_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\羊\Sheep_WalkD_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\羊\Sheep_WalkD_3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\羊\Sheep_WalkD_4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\羊\Sheep_WalkL_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\羊\Sheep_WalkL_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\羊\Sheep_WalkL_3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\羊\Sheep_WalkL_4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\羊\Sheep_WalkR_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\羊\Sheep_WalkR_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\羊\Sheep_WalkR_3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\羊\Sheep_WalkR_4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\羊\Sheep_WalkU_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\羊\Sheep_WalkU_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\羊\Sheep_WalkU_3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\圖檔\動物\羊\Sheep_WalkU_4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Sheep\Sheep_EAT_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Sheep\Sheep_EAT_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Sheep\Sheep_EAT_3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Sheep\Sheep_EAT_4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Sheep\Sheep_IDEL_D.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Sheep\Sheep_IDEL_L.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Sheep\Sheep_IDEL_R.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Sheep\Sheep_IDEL_U.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Sheep\Sheep_Sleep_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Sheep\Sheep_Sleep_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Sheep\Sheep_WalkD_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Sheep\Sheep_WalkD_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Sheep\Sheep_WalkD_3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Sheep\Sheep_WalkD_4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Sheep\Sheep_WalkL_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Sheep\Sheep_WalkL_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Sheep\Sheep_WalkL_3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Sheep\Sheep_WalkL_4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Sheep\Sheep_WalkR_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Sheep\Sheep_WalkR_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Sheep\Sheep_WalkR_3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Sheep\Sheep_WalkR_4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Sheep\Sheep_WalkU_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Sheep\Sheep_WalkU_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Sheep\Sheep_WalkU_3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Sheep\Sheep_WalkU_4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animal Product\Milk.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animal Product\羊毛 - Fleece.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animal Product\Fleece.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\store\store_inside.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Road_CDown.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Road_Center.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Road_CUp.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Road_LDownCorner.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Road_LUpCorner.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Road_RDownCorner.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Road_RUpCorner.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Road_Left.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Road_Right.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\tool\axe.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\tool\bell.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\tool\hammer.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\tool\hoe.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\tool\milkMachine.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\tool\rod.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\tool\scissor.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\tool\sickle.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\tool\WaterCan.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\store\StrHouse.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\home\Home.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_W_D1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_W_D2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_W_D3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_W_D4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_W_L1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_W_L2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_W_L3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_W_L4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_W_R1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_W_R2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_W_R3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_W_R4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_W_U1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_W_U2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_W_U3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Animals\Cow\Cow_W_U4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\MENU\UI_about.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\store\mainPoint.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\MENU\UI_Description_p1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\MENU\UI_Description_p2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\MENU\UI_Description_p3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\MENU\UI_Description_p4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\MENU\UI_Left_Btn.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\MENU\UI_Right_Btn.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Achievement\IU_Achievement_Chicken.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Achievement\IU_Achievement_Cow.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Achievement\IU_Achievement_Crop.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Achievement\IU_Achievement_Money.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Achievement\IU_Achievement_Sheep.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Achievement\UI_Ach_Win_0.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Achievement\UI_Ach_Win_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Achievement\UI_Ach_Win_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Achievement\UI_Ach_Win_3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Achievement\UI_Ach_Win_4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Achievement\UI_Ach_Win_5.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Achievement\Ach_Des_Chicken.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Achievement\Ach_Des_Cow.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Achievement\Ach_Des_Crop.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Achievement\Ach_Des_Money.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Achievement\Ach_Des_Sheep.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Game Over\UI_Over_Win_YorN.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Game Over\UI_Over_Win_YorN_NClick.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Game Over\UI_Over_Win_YorN_NHold.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Game Over\UI_Over_Win_YorN_YClick.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Game Over\UI_Over_Win_YorN_YHold.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\Game Over\UI_Over_Win_Cul.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="asset\Picture\MENU\UI_Description_p5.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
